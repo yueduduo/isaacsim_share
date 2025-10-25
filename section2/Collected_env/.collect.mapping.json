@@ -1,0 +1,173 @@
+{
+    "version": "1.0",
+    "file_records": [
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Environments/Grid/Materials/Textures/WireframeBlur_basecolor.png",
+            "source_hash": "c877ff67c860683af5ff2565a661d27099358eba",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Environments/Grid/Materials/Textures/WireframeBlur_basecolor.png",
+            "target_hash": "c0731a0923322c5a4d678df216e91b68da3a920a"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Environments/Grid/Materials/Textures/WireframeBlur_blue.png",
+            "source_hash": "deafacf11d85f8e20b91333786ab9badf07f0b2f",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Environments/Grid/Materials/Textures/WireframeBlur_blue.png",
+            "target_hash": "99b7b1a7f5c2554e6cc7c6aa93eb26ef23a8802a"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Environments/Grid/Materials/Textures/Wireframe_blue.png",
+            "source_hash": "806fbf442477e8184182df495bec18427d255b41",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Environments/Grid/Materials/Textures/Wireframe_blue.png",
+            "target_hash": "c210ec1fb6ff415c339aa252d352506589c7d645"
+        },
+        {
+            "source_url": "D:/isaacsim_assets/Assets/Isaac/5.0/Isaac/Props/YCB/Axis_Aligned/Materials/Textures/011_banana_COLOR.png",
+            "source_hash": "931caa890fae77a62edffb321c65d4f49172e5c7",
+            "target_url": "./D/isaacsim_assets/Assets/Isaac/5.0/Isaac/Props/YCB/Axis_Aligned/Materials/Textures/011_banana_COLOR.png",
+            "target_hash": "931caa890fae77a62edffb321c65d4f49172e5c7"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/cables_connected.usd",
+            "source_hash": "fb06273729e1c532835fda6fb9f7be6e237bdcb4",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/cables_connected.usd",
+            "target_hash": "ff90f99c3e2af243cd00fa4017a32ba6a1fa3c22"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/logo_decals.usd",
+            "source_hash": "8a46faf7ae0c1f2c16ae69894272e46c6c40cc61",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/logo_decals.usd",
+            "target_hash": "2b19f9f93bd1c6a28c2b0bd2957286c5cca3e180"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/panda_leftfinger_flex.usd",
+            "source_hash": "dd75e9906de85217102e78a3f0213c95c4d70a7b",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/panda_leftfinger_flex.usd",
+            "target_hash": "4afc1333e419ca4c33c709115b8cb276c2b76e48"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/panda_link0.usd",
+            "source_hash": "1151c1e63db2faeb2dc41abf2015960255e4d91a",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/panda_link0.usd",
+            "target_hash": "352a2d3891e8618ad28d1bf8b7c5eeca631b6b30"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/panda_link1.usd",
+            "source_hash": "70f95a8aa83d04167aa88ca05de1af0d933c670a",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/panda_link1.usd",
+            "target_hash": "defbd4ad7cdb73877bc9da86f12a39e8a58b3aaf"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/panda_link2.usd",
+            "source_hash": "6dc2dc2d7cf0b6c3ba40a9b8e62c31c8fb796eaf",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/panda_link2.usd",
+            "target_hash": "62a7547c9241b7fc73ea7039fcdb995333951eef"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/panda_link3.usd",
+            "source_hash": "b8d0086e4ac07b37cf30a0d4656adbe8acd95284",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/panda_link3.usd",
+            "target_hash": "fbaad91deb17827167a8947d55932bed93c909cb"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/panda_link4.usd",
+            "source_hash": "9f02113603eceafcb4ed14b3c3a86ae0f0afcbb3",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/panda_link4.usd",
+            "target_hash": "445b0e7d38b72c935fea0c078a6d4781629a9816"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/panda_link5.usd",
+            "source_hash": "be1a8f368767fb04e4d0824b1d0384c2d6f5e225",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/panda_link5.usd",
+            "target_hash": "94919271e1792de9a715884e5fec2392a825ed56"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/panda_link6.usd",
+            "source_hash": "e95de0d3c87315d2c9b2e04896c3ba66fa83093c",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/panda_link6.usd",
+            "target_hash": "9c492e6088cc3e361606b204591b18855c8d6f89"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/panda_link7.usd",
+            "source_hash": "718e52d9dd2611dca3cf565e3c97a7760d47abd3",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/panda_link7.usd",
+            "target_hash": "90cf89be5267fb58323df6b058d57f017f6b2df3"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/panda_rightfinger_flex.usd",
+            "source_hash": "e3638cd23797931de2c75462fe7c20977c7418bb",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/panda_rightfinger_flex.usd",
+            "target_hash": "02079a2b306de6ba05f16d4b97794de1d5778e91"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/Props/panda_link6.usd",
+            "source_hash": "828b12be73aba431aa82020da06738c277d96b8a",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/Props/panda_link6.usd",
+            "target_hash": "fba19f2b37da9a1bf63dc4258b63ad35a1ce76a2"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/configuration/franka_Gripper_Robotiq_2F_85.usd",
+            "source_hash": "8c217365cd30ea4c8180af56a8f30f0aeffb094c",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/configuration/franka_Gripper_Robotiq_2F_85.usd",
+            "target_hash": "1f1f4b560ab216895a45079b24d9c6de7e602323"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/Robotiq/2F-85/Robotiq_2F_85_edit.usd",
+            "source_hash": "74e83f023d8288f667a2f14e3d4fbe1ab3b28d5f",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/Robotiq/2F-85/Robotiq_2F_85_edit.usd",
+            "target_hash": "ccfdaad3d9d6c858feea6fa00dbfad55d6fc03c6"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/Robotiq/2F-85/configuration/Robotiq_2F_85_robot.usd",
+            "source_hash": "cfa5e5cd937a1f79a8e8e7714c08434a1a6d504a",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/Robotiq/2F-85/configuration/Robotiq_2F_85_robot.usd",
+            "target_hash": "10c53f63f90d52b774a8cc51e25c08b6ae919814"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/Robotiq/2F-85/payloads/Robotiq_2F_85_base.usda",
+            "source_hash": "9ce9af5055a9118382bc2fda7da794b41cbc3190",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/Robotiq/2F-85/payloads/Robotiq_2F_85_base.usda",
+            "target_hash": "d34c9048c35ee6268c3972850157e96e7db1b570"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/Materials/Textures/Logo_Textures_Albedo.png",
+            "source_hash": "30f9502f35eabc8e7988e0cefed1289b6f64d2fc",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/Materials/Textures/Logo_Textures_Albedo.png",
+            "target_hash": "a6eed68aa77145ece8152545e95cf0aebd50bee1"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/Materials/Textures/Logo_Textures_Metallic.png",
+            "source_hash": "1d5fb6219ae91a555f361bf4f7bdb54efe723f1c",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/Materials/Textures/Logo_Textures_Metallic.png",
+            "target_hash": "fe433a4dbc4421784244f5640b87665ca6afc371"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/Materials/Textures/Logo_Textures_Opacity.png",
+            "source_hash": "b85183f467a6e21670d2dce3b5acb71dfe58e6d9",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/Materials/Textures/Logo_Textures_Opacity.png",
+            "target_hash": "88784b4f6723375970f13048411cd945920ef596"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/Materials/Textures/Logo_Textures_roughness.png",
+            "source_hash": "e0024e6251d18b1292cbb3972645ab577900327c",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/Materials/Textures/Logo_Textures_roughness.png",
+            "target_hash": "875831a7c1117283ebf1b899cdb1ea38f4ce08d3"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/Materials/Textures/normal.png",
+            "source_hash": "3a140474e2fc9348c124a9cefe79a0c46a6c37ac",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/FrankaRobotics/FrankaPanda/DetailedProps/Materials/Textures/normal.png",
+            "target_hash": "4b39e77478defdf1c301ccae3ad43bb36c4f55b8"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/Robotiq/2F-85/payloads/Robotiq_2F_85_phyisics_loop.usda",
+            "source_hash": "36a2a275c9baf95d166e9734fc8f45f523450455",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/Robotiq/2F-85/payloads/Robotiq_2F_85_phyisics_loop.usda",
+            "target_hash": "c0437855a9b5e7011b9923576100bfd6cc767772"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/Robotiq/2F-85/payloads/Robotiq_2F_85_phyisics_mimic.usda",
+            "source_hash": "76bd5f3d89a94f100859d3799b07bdfa7400dfff",
+            "target_url": "./omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/5.0/Isaac/Robots/Robotiq/2F-85/payloads/Robotiq_2F_85_phyisics_mimic.usda",
+            "target_hash": "55ffaed7ff8837647950dba3bbf2d440851988ed"
+        }
+    ]
+}
