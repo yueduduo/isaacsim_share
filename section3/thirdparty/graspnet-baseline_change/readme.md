@@ -1,0 +1,1 @@
+用这里的demo.py替换原来graspnet-baseline中的demo.py
